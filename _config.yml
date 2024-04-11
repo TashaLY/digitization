@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: The Digitization Knowledge Base
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: This digital library was developed by Natasha Torres as a course project for Dr. Yan Liu the instructor of ILS 655: Digital Libraries, at Southern Connecticut State University.
+tagline: "This digital library was developed by Natasha Torres as a course project for Dr. Yan Liu the instructor of ILS 655: Digital Libraries, at Southern Connecticut State University."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: This digital library is a repository designed to inform users on the standards, methods, and processes involved in library digitization.
+description: "This digital library is a repository designed to inform users on the standards, methods, and processes involved in library digitization."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Natasha Torres
 
