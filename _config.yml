@@ -20,30 +20,30 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: The Digitization Knowledge Base
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: This digital library was developed by Natasha Torres as a course project for Dr. Yan Liu the instructor of ILS 655: Digital Libraries, at Southern Connecticut State University.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: This digital library is a repository designed to inform users on the standards, methods, and processes involved in library digitization.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Natasha Torres
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: digitization
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Southern Connecticut State University (SCSU)"
+# organization-link: https://www.southernct.edu/
+# organization-logo-banner: https://seeklogo.com/images/S/southern-connecticut-state-university-scsu-logo-F9A8BD36C7-seeklogo.com.png
+# organization-logo-nav: https://www.southernct.edu/sites/default/files/scsu-logo.png
 
 ##########
 # ROBOTS EXCLUDE
